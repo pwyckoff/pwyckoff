@@ -1,4 +1,4 @@
-- 🎓 MRes Student LSE Department of Government
+- 🎓 PhD Student LSE Department of Government
 - 🌳 💼 Studying Climate and Employment Policy
 - 📟 Find me on twitter @ peterswyckoff
 
