@@ -1,6 +1,6 @@
-- 🎓 PhD Student LSE Department of Government
-- 🌳 💼 Studying Climate and Employment Policy
-- 📟 Find me on twitter @ peterswyckoff
+- 🎓 Fellow at the Global School of Sustainability at LSE
+- 🌳 💼 Studying Political economy of climate policy, employment and structural change
+- 📟 Find me on bluesky @ peterwyckoff.bsky.social
 
 <!---
 pwyckoff/pwyckoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
